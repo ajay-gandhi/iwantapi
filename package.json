@@ -1,0 +1,27 @@
+{
+  "name": "iwantapi",
+  "version": "0.0.0",
+  "description": "Serves APIs as JSONP",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajay-gandhi/iwantapi.git"
+  },
+  "keywords": [
+    "jsonp",
+    "api"
+  ],
+  "author": "Ajay Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay-gandhi/iwantapi/issues"
+  },
+  "homepage": "https://github.com/ajay-gandhi/iwantapi#readme"
+}
