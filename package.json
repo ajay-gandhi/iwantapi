@@ -4,7 +4,8 @@
   "description": "Serves APIs as JSONP",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "request-promise": "^2.0.0"
   },
   "scripts": {
     "start": "node app.js"
